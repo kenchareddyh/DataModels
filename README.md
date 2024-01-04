@@ -12,7 +12,10 @@ This representation provides a unique and simple way to study the quality of the
 In the notebook above I reproduced the framework detailed in the paper using several different classification aglorithms for F (Polynomial Regression, KNN, and Nerual Nets) and observed the accuracy of the linear datamodels on various datasets. 
 
 I used the following datasets:
-position-salaries dataset: https://s3.us-west-2.amazonaws.com/public.gamelab.fun/dataset/position_salaries.csv
-iris dataset: https://archive.ics.uci.edu/dataset/53/iris
-breast cancer dataset: https://archive.ics.uci.edu/dataset/14/breast+cancer
-cifar-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
+1) position-salaries dataset: https://s3.us-west-2.amazonaws.com/public.gamelab.fun/dataset/position_salaries.csv
+2) iris dataset: https://archive.ics.uci.edu/dataset/53/iris
+3) breast cancer dataset: https://archive.ics.uci.edu/dataset/14/breast+cancer
+4) cifar-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
+
+
+
